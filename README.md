@@ -1,5 +1,11 @@
 # Tennis Grand Slam Winners
 The winners each year in tennis of the Australian Open, French Open (Roland Garros), Wimbledon and US Open.
+Now available in md or json format.
 
+# Mens Single Winners 
 
-1. [Mens Single Winners](MensWinners.md)
+[Mens Winners](MensWinners.md) 
+
+## Json format
+
+[Mens Winners](MensWinners.json)

@@ -1,0 +1,529 @@
+{
+	"grandSlamWinners": [
+		{
+			"Year": 2024,
+			"Australian Open": "Jannik Sinner",
+			"Wimbledon": "Carlos Alcaraz",
+			"French Open": "Carlos Alcaraz",
+			"US Open": "Jannik Sinner"
+		},
+		{
+			"Year": 2023,
+			"Australian Open": "Novak Djokovic",
+			"Wimbledon": "Carlos Alcaraz",
+			"French Open": "Novak Djokovic",
+			"US Open": "Novak Djokovic"
+		},
+		{
+			"Year": 2022,
+			"Australian Open": "Rafael Nadal",
+			"Wimbledon": "Novak Djokovic",
+			"French Open": "Rafael Nadal",
+			"US Open": "Carlos Alcaraz"
+		},
+		{
+			"Year": 2021,
+			"Australian Open": "Novak Djokovic",
+			"Wimbledon": "Novak Djokovic",
+			"French Open": "Novak Djokovic",
+			"US Open": "Daniil Medvedev"
+		},
+		{
+			"Year": 2020,
+			"Australian Open": "Novak Djokovic",
+			"Wimbledon": "N/A",
+			"French Open": "Rafael Nadal",
+			"US Open": "Dominic Thiem"
+		},
+		{
+			"Year": 2019,
+			"Australian Open": "Novak Djokovic",
+			"Wimbledon": "Novak Djokovic",
+			"French Open": "Rafael Nadal",
+			"US Open": "Rafael Nadal"
+		},
+		{
+			"Year": 2018,
+			"Australian Open": "Roger Federer",
+			"Wimbledon": "Novak Djokovic",
+			"French Open": "Rafael Nadal",
+			"US Open": "Novak Djokovic"
+		},
+		{
+			"Year": 2017,
+			"Australian Open": "Roger Federer",
+			"Wimbledon": "Roger Federer",
+			"French Open": "Rafael Nadal",
+			"US Open": "Rafael Nadal"
+		},
+		{
+			"Year": 2016,
+			"Australian Open": "Novak Djokovic",
+			"Wimbledon": "Andy Murray",
+			"French Open": "Novak Djokovic",
+			"US Open": "Stan Wawrinka"
+		},
+		{
+			"Year": 2015,
+			"Australian Open": "Novak Djokovic",
+			"Wimbledon": "Novak Djokovic",
+			"French Open": "Stan Wawrinka",
+			"US Open": "Novak Djokovic"
+		},
+		{
+			"Year": 2014,
+			"Australian Open": "Stan Wawrinka",
+			"Wimbledon": "Novak Djokovic",
+			"French Open": "Rafael Nadal",
+			"US Open": "Marin Cilic"
+		},
+		{
+			"Year": 2013,
+			"Australian Open": "Novak Djokovic",
+			"Wimbledon": "Andy Murray",
+			"French Open": "Rafael Nadal",
+			"US Open": "Rafael Nadal"
+		},
+		{
+			"Year": 2012,
+			"Australian Open": "Novak Djokovic",
+			"Wimbledon": "Roger Federer",
+			"French Open": "Rafael Nadal",
+			"US Open": "Andy Murray"
+		},
+		{
+			"Year": 2011,
+			"Australian Open": "Novak Djokovic",
+			"Wimbledon": "Novak Djokovic",
+			"French Open": "Rafael Nadal",
+			"US Open": "Novak Djokovic"
+		},
+		{
+			"Year": 2010,
+			"Australian Open": "Roger Federer",
+			"Wimbledon": "Rafael Nadal",
+			"French Open": "Rafael Nadal",
+			"US Open": "Rafael Nadal"
+		},
+		{
+			"Year": 2009,
+			"Australian Open": "Rafael Nadal",
+			"Wimbledon": "Roger Federer",
+			"French Open": "Roger Federer",
+			"US Open": "Juan Martin del Potro"
+		},
+		{
+			"Year": 2008,
+			"Australian Open": "Novak Djokovic",
+			"Wimbledon": "Rafael Nadal",
+			"French Open": "Rafael Nadal",
+			"US Open": "Roger Federer"
+		},
+		{
+			"Year": 2007,
+			"Australian Open": "Roger Federer",
+			"Wimbledon": "Roger Federer",
+			"French Open": "Rafael Nadal",
+			"US Open": "Roger Federer"
+		},
+		{
+			"Year": 2006,
+			"Australian Open": "Roger Federer",
+			"Wimbledon": "Roger Federer",
+			"French Open": "Rafael Nadal",
+			"US Open": "Roger Federer"
+		},
+		{
+			"Year": 2005,
+			"Australian Open": "Marat Safin",
+			"Wimbledon": "Roger Federer",
+			"French Open": "Rafael Nadal",
+			"US Open": "Roger Federer"
+		},
+		{
+			"Year": 2004,
+			"Australian Open": "Roger Federer",
+			"Wimbledon": "Roger Federer",
+			"French Open": "Gaston Gaudio",
+			"US Open": "Roger Federer"
+		},
+		{
+			"Year": 2003,
+			"Australian Open": "Andre Agassi",
+			"Wimbledon": "Roger Federer",
+			"French Open": "Juan Carlos Ferrero",
+			"US Open": "Andy Roddick"
+		},
+		{
+			"Year": 2002,
+			"Australian Open": "Thomas Johannson",
+			"Wimbledon": "Lleyton Hewitt",
+			"French Open": "Albert Costa",
+			"US Open": "Pete Sampras"
+		},
+		{
+			"Year": 2001,
+			"Australian Open": "Andre Agassi",
+			"Wimbledon": "Goran Ivanisevic",
+			"French Open": "Gustavo Kuerten",
+			"US Open": "Lleyton Hewitt"
+		},
+		{
+			"Year": 2000,
+			"Australian Open": "Andre Agassi",
+			"Wimbledon": "Pete Sampras",
+			"French Open": "Gustavo Kuerten",
+			"US Open": "Marat Safin"
+		},
+		{
+			"Year": 1999,
+			"Australian Open": "Yevgeny Kafelnikov",
+			"Wimbledon": "Pete Sampras",
+			"French Open": "Andre Agassi",
+			"US Open": "Andre Agassi"
+		},
+		{
+			"Year": 1998,
+			"Australian Open": "Petr Korda",
+			"Wimbledon": "Pete Sampras",
+			"French Open": "Carlos Moya",
+			"US Open": "Patrick Rafter"
+		},
+		{
+			"Year": 1997,
+			"Australian Open": "Pete Sampras",
+			"Wimbledon": "Pete Sampras",
+			"French Open": "Gustavo Kuerten",
+			"US Open": "Patrick Rafter"
+		},
+		{
+			"Year": 1996,
+			"Australian Open": "Boris Becker",
+			"Wimbledon": "Richard Krajicek",
+			"French Open": "Yevgeny Kafelnikov",
+			"US Open": "Pete Sampras"
+		},
+		{
+			"Year": 1995,
+			"Australian Open": "Andre Agassi",
+			"Wimbledon": "Pete Sampras",
+			"French Open": "Thomas Muster",
+			"US Open": "Pete Sampras"
+		},
+		{
+			"Year": 1994,
+			"Australian Open": "Pete Sampras",
+			"Wimbledon": "Pete Sampras",
+			"French Open": "Sergi Bruguera",
+			"US Open": "Andre Agassi"
+		},
+		{
+			"Year": 1993,
+			"Australian Open": "Jim Courier",
+			"Wimbledon": "Pete Sampras",
+			"French Open": "Sergi Bruguera",
+			"US Open": "Pete Sampras"
+		},
+		{
+			"Year": 1992,
+			"Australian Open": "Jim Courier",
+			"Wimbledon": "Andre Agassi",
+			"French Open": "Jim Courier",
+			"US Open": "Stefan Edberg"
+		},
+		{
+			"Year": 1991,
+			"Australian Open": "Boris Becker",
+			"Wimbledon": "Michael Stich",
+			"French Open": "Jim Courier",
+			"US Open": "Stefan Edberg"
+		},
+		{
+			"Year": 1990,
+			"Australian Open": "Ivan Lendl",
+			"Wimbledon": "Stefan Edberg",
+			"French Open": "Andres Gomez",
+			"US Open": "Pete Sampras"
+		},
+		{
+			"Year": 1989,
+			"Australian Open": "Ivan Lendl",
+			"Wimbledon": "Boris Becker",
+			"French Open": "Michael Chang",
+			"US Open": "Boris Becker"
+		},
+		{
+			"Year": 1988,
+			"Australian Open": "Mats Wilander",
+			"Wimbledon": "Stefan Edberg",
+			"French Open": "Mats Wilander",
+			"US Open": "Mats Wilander"
+		},
+		{
+			"Year": 1987,
+			"Australian Open": "Stefan Edberg",
+			"Wimbledon": "Pat Cash",
+			"French Open": "Ivan Lendl",
+			"US Open": "Ivan Lendl"
+		},
+		{
+			"Year": 1986,
+			"Australian Open": "N/A",
+			"Wimbledon": "Boris Becker",
+			"French Open": "Ivan Lendl",
+			"US Open": "Ivan Lendl"
+		},
+		{
+			"Year": 1985,
+			"Australian Open": "Stefan Edberg",
+			"Wimbledon": "Boris Becker",
+			"French Open": "Mats Wilander",
+			"US Open": "Ivan Lendl"
+		},
+		{
+			"Year": 1984,
+			"Australian Open": "Mats Wilander",
+			"Wimbledon": "John McEnroe",
+			"French Open": "Ivan Lendl",
+			"US Open": "John McEnroe"
+		},
+		{
+			"Year": 1983,
+			"Australian Open": "Mats Wilander",
+			"Wimbledon": "John McEnroe",
+			"French Open": "Yannick Noah",
+			"US Open": "Jimmy Connors"
+		},
+		{
+			"Year": 1982,
+			"Australian Open": "Johan Kriek",
+			"Wimbledon": "Jimmy Connors",
+			"French Open": "Mats Wilander",
+			"US Open": "Jimmy Connors"
+		},
+		{
+			"Year": 1981,
+			"Australian Open": "Johan Kriek",
+			"Wimbledon": "John McEnroe",
+			"French Open": "Bjorn Borg",
+			"US Open": "John McEnroe"
+		},
+		{
+			"Year": 1980,
+			"Australian Open": "Brian Teacher",
+			"Wimbledon": "Bjorn Borg",
+			"French Open": "Bjorn Borg",
+			"US Open": "John McEnroe"
+		},
+		{
+			"Year": 1979,
+			"Australian Open": "Guillermo Vilas",
+			"Wimbledon": "Bjorn Borg",
+			"French Open": "Bjorn Borg",
+			"US Open": "John McEnroe"
+		},
+		{
+			"Year": 1978,
+			"Australian Open": "Guillermo Vilas",
+			"Wimbledon": "Bjorn Borg",
+			"French Open": "Bjorn Borg",
+			"US Open": "Jimmy Connors"
+		},
+		{
+			"Year": 1977,
+			"Australian Open": "Vitas Gerulaitis/Roscoe Tanner",
+			"Wimbledon": "Bjorn Borg",
+			"French Open": "Guillermo Vilas",
+			"US Open": "Guillermo Vilas"
+		},
+		{
+			"Year": 1976,
+			"Australian Open": "Mark Edmondson",
+			"Wimbledon": "Bjorn Borg",
+			"French Open": "Adriano Panatta",
+			"US Open": "Jimmy Connors"
+		},
+		{
+			"Year": 1975,
+			"Australian Open": "John Newcombe",
+			"Wimbledon": "Arthur Ashe",
+			"French Open": "Bjorn Borg",
+			"US Open": "Manuel Orantes"
+		},
+		{
+			"Year": 1974,
+			"Australian Open": "Jimmy Connors",
+			"Wimbledon": "Jimmy Connors",
+			"French Open": "Bjorn Borg",
+			"US Open": "Jimmy Connors"
+		},
+		{
+			"Year": 1973,
+			"Australian Open": "John Newcombe",
+			"Wimbledon": "Jan Kodes",
+			"French Open": "Ilie Nastase",
+			"US Open": "John Newcombe"
+		},
+		{
+			"Year": 1972,
+			"Australian Open": "Ken Rosewall",
+			"Wimbledon": "Stan Smith",
+			"French Open": "Andres Gimeno",
+			"US Open": "Ilie Nastase"
+		},
+		{
+			"Year": 1971,
+			"Australian Open": "Ken Rosewall",
+			"Wimbledon": "John Newcombe",
+			"French Open": "Jan Kodes",
+			"US Open": "Stan Smith"
+		},
+		{
+			"Year": 1970,
+			"Australian Open": "Arthur Ashe",
+			"Wimbledon": "John Newcombe",
+			"French Open": "Jan Kodes",
+			"US Open": "Ken Rosewall"
+		},
+		{
+			"Year": 1969,
+			"Australian Open": "Rod Laver",
+			"Wimbledon": "Rod Laver",
+			"French Open": "Rod Laver",
+			"US Open": "Rod Laver"
+		},
+		{
+			"Year": 1968,
+			"Australian Open": "Bill Bowrey",
+			"Wimbledon": "Rod Laver",
+			"French Open": "Ken Rosewall",
+			"US Open": "Arthur Ashe"
+		},
+		{
+			"Year": 1967,
+			"Australian Open": "Roy Emerson",
+			"Wimbledon": "John Newcombe",
+			"French Open": "Roy Emerson",
+			"US Open": "John Newcombe"
+		},
+		{
+			"Year": 1966,
+			"Australian Open": "Roy Emerson",
+			"Wimbledon": "Manuel Santana",
+			"French Open": "Tony Roche",
+			"US Open": "Fred Stolle"
+		},
+		{
+			"Year": 1965,
+			"Australian Open": "Roy Emerson",
+			"Wimbledon": "Roy Emerson",
+			"French Open": "Fred Stolle",
+			"US Open": "Manuel Santana"
+		},
+		{
+			"Year": 1964,
+			"Australian Open": "Roy Emerson",
+			"Wimbledon": "Roy Emerson",
+			"French Open": "Manuel Santana",
+			"US Open": "Roy Emerson"
+		},
+		{
+			"Year": 1963,
+			"Australian Open": "Roy Emerson",
+			"Wimbledon": "C.R. McKinley",
+			"French Open": "Roy Emerson",
+			"US Open": "Rafael Osuna"
+		},
+		{
+			"Year": 1962,
+			"Australian Open": "Rod Laver",
+			"Wimbledon": "Rod Laver",
+			"French Open": "Rod Laver",
+			"US Open": "Rod Laver"
+		},
+		{
+			"Year": 1961,
+			"Australian Open": "Roy Emerson",
+			"Wimbledon": "Rod Laver",
+			"French Open": "Manuel Santana",
+			"US Open": "Roy Emerson"
+		},
+		{
+			"Year": 1960,
+			"Australian Open": "Rod Laver",
+			"Wimbledon": "Neale Fraser",
+			"French Open": "Nicola Pietrangeli",
+			"US Open": "Neale Fraser"
+		},
+		{
+			"Year": 1959,
+			"Australian Open": "Alex Olmedo",
+			"Wimbledon": "Alejandro Olmedo",
+			"French Open": "Nicola Pietrangeli",
+			"US Open": "Neale Fraser"
+		},
+		{
+			"Year": 1958,
+			"Australian Open": "Ashley J. Cooper",
+			"Wimbledon": "Ashley J. Cooper",
+			"French Open": "Mervyn Rose",
+			"US Open": "Ashley J. Cooper"
+		},
+		{
+			"Year": 1957,
+			"Australian Open": "Ashley J. Cooper",
+			"Wimbledon": "Lewis Hoad",
+			"French Open": "Sven Davidson",
+			"US Open": "Malcolm J. Anderson"
+		},
+		{
+			"Year": 1956,
+			"Australian Open": "Lewis Hoad",
+			"Wimbledon": "Lewis Hoad",
+			"French Open": "Lewis Hoad",
+			"US Open": "Ken Rosewall"
+		},
+		{
+			"Year": 1955,
+			"Australian Open": "Ken Rosewall",
+			"Wimbledon": "Tony Trabert",
+			"French Open": "Tony Trabert",
+			"US Open": "Tony Trabert"
+		},
+		{
+			"Year": 1954,
+			"Australian Open": "Mervyn Rose",
+			"Wimbledon": "Jaroslav Drobny",
+			"French Open": "Tony Trabert",
+			"US Open": "E. Victor Seixas Jr."
+		},
+		{
+			"Year": 1953,
+			"Australian Open": "Ken Rosewall",
+			"Wimbledon": "E. Victor Seixas Jr.",
+			"French Open": "Ken Rosewall",
+			"US Open": "Tony Trabert"
+		},
+		{
+			"Year": 1952,
+			"Australian Open": "Ken McGregor",
+			"Wimbledon": "Frank Sedgman",
+			"French Open": "Jaroslav Drobny",
+			"US Open": "Frank Sedgman"
+		},
+		{
+			"Year": 1951,
+			"Australian Open": "Dick Savitt",
+			"Wimbledon": "R. Savitt",
+			"French Open": "Jaroslav Drobny",
+			"US Open": "Frank Sedgman"
+		},
+		{
+			"Year": 1950,
+			"Australian Open": "Frank Sedgman",
+			"Wimbledon": "J.E. Patty",
+			"French Open": "Budge Patty",
+			"US Open": "Arthur Larsen"
+		}
+	]
+}
