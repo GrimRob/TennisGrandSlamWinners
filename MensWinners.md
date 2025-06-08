@@ -4,6 +4,7 @@
 
 |Year|Australian Open|Wimbledon |French Open|US Open|
 |----|--------|--------|--------|--------|
+|2025|Jannik Sinner||Carlos Alcaraz||
 |2024|Jannik Sinner|Carlos Alcaraz|Carlos Alcaraz|Jannik Sinner|
 |2023|Novak Djokovic|Carlos Alcaraz|Novak Djokovic|Novak Djokovic|
 |2022|Rafael Nadal|Novak Djokovic|Rafael Nadal|Carlos Alcaraz|

@@ -1,6 +1,13 @@
 {
 	"grandSlamWinners": [
 		{
+			"Year": 2025,
+			"Australian Open": "Jannik Sinner",
+			"Wimbledon": "",
+			"French Open": "Carlos Alcaraz",
+			"US Open": ""
+		},
+		{
 			"Year": 2024,
 			"Australian Open": "Jannik Sinner",
 			"Wimbledon": "Carlos Alcaraz",
